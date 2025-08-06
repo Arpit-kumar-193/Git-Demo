@@ -1,2 +1,2 @@
 # Git-Demo
-This is dummy git repo
+This is dummy git repository
